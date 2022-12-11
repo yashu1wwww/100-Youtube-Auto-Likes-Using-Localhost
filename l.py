@@ -12,7 +12,7 @@ option.add_experimental_option("debuggerAddress","localhost:9222")
 
 driver = webdriver.Chrome(options=option)
 
-time.sleep(1)
+time.sleep(2)
 
 driver.get("https://youtu.be/8FAUEv_E_xQ") #replace with your required url
 
@@ -21,7 +21,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -40,7 +40,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -60,7 +60,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -80,7 +80,7 @@ time.sleep(2)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -100,7 +100,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -120,7 +120,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -140,7 +140,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -160,7 +160,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -202,7 +202,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -222,7 +222,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -242,7 +242,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -262,7 +262,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -282,7 +282,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -302,7 +302,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -322,7 +322,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -342,7 +342,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -364,7 +364,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -384,7 +384,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -404,7 +404,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -424,7 +424,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -444,7 +444,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -464,7 +464,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -484,7 +484,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -504,7 +504,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -524,7 +524,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -544,7 +544,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -566,7 +566,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -586,7 +586,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -606,7 +606,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -626,7 +626,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -646,7 +646,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -666,7 +666,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -686,7 +686,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -706,7 +706,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -726,7 +726,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -748,7 +748,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -768,7 +768,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -788,7 +788,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -808,7 +808,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -828,7 +828,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -848,7 +848,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -868,7 +868,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -888,7 +888,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -908,7 +908,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -930,7 +930,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -950,7 +950,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -970,7 +970,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -990,7 +990,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1010,7 +1010,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1030,7 +1030,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1050,7 +1050,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1070,7 +1070,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1090,7 +1090,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1112,7 +1112,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1132,7 +1132,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1152,7 +1152,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1172,7 +1172,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1192,7 +1192,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1212,7 +1212,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1232,7 +1232,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1252,7 +1252,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1272,7 +1272,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1294,7 +1294,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1314,7 +1314,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1334,7 +1334,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1354,7 +1354,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1374,7 +1374,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1394,7 +1394,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1414,7 +1414,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1434,7 +1434,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1454,7 +1454,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1476,7 +1476,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1496,7 +1496,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1516,7 +1516,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1536,7 +1536,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1556,7 +1556,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1576,7 +1576,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1596,7 +1596,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1616,7 +1616,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1636,7 +1636,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1658,7 +1658,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1678,7 +1678,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1698,7 +1698,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1718,7 +1718,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1738,7 +1738,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1758,7 +1758,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1778,7 +1778,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1798,7 +1798,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1818,7 +1818,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1838,7 +1838,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1858,7 +1858,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1878,7 +1878,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1898,7 +1898,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1918,7 +1918,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1938,7 +1938,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1956,7 +1956,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1976,7 +1976,7 @@ time.sleep(3)
 #like
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
 
-time.sleep(1)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1990,8 +1990,7 @@ time.sleep(2)
 
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
+
 time.sleep(10)
-
-
 
 
