@@ -1,5 +1,5 @@
-# 500-Youtube-Auto-Likes-Using-Localhost
-500 Youtube Auto Likes Using Localhost Using selenium with python
+# 100-Youtube-Auto-Likes-Using-Localhost
+100 youtube Auto Likes Using Localhost Using selenium with python
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
