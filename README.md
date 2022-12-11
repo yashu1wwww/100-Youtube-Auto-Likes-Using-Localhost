@@ -23,15 +23,13 @@ cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-h.py
+l.py
 
-you must login with your 10+ accounts to do 500+ auto comments...
+you must login with your 10+ accounts and with each accounts you must have 10+ brand account must and should to hit auto likes....
 
-in 11 & 12 line in code change if you needed other comments inside ...
+in 17th line change with your required movie video url...
 
-in 19th line change with your required movie video url...
-
-thats all done the url will open in that opened localhost chrome and automatically done the 500+ auto comments....
+thats all done the url will open in the localhost and it auto likes and switch to another acc automatically and hitting the likes..
 
 in cmd enter
 
