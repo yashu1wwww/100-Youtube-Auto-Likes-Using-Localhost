@@ -7,6 +7,11 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
+100 likes means youtube will remove some likes so after chrome open using localhost 
+in extension on the other server to bypass location
+
+https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
+
 in my case chrome location
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
