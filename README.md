@@ -3,48 +3,20 @@
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
-<𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 l.𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙖𝙨 l.𝙥𝙮 𝙖𝙣𝙙 𝙥𝙖𝙨𝙩𝙚 𝙩𝙝𝙖𝙩 𝙛𝙞𝙡𝙚 𝙩𝙝𝙚𝙧𝙚>
+<  Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. The script is used to automatically like a particular YouTube video with multiple accounts  >
 
-C:\Users\Hp\AppData\Local\Google\Chrome\Application
+First, open Chrome and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location is "C:\Users\Hp\AppData\Local\Google\Chrome\Application".
 
-100 likes means youtube will remove some likes so after chrome open using localhost 
-in extension on the other server to bypass location
+Next, in the command prompt, navigate to the Chrome directory using the command "cd C:\Users\Hp\AppData\Local\Google\Chrome\Application". Then, use the command "chrome.exe --remote-debugging-port=9222 --user-data-dir=<enter your localhost path here>" to open Chrome with remote debugging enabled. In my case, the command was "chrome.exe --remote-debugging-port=9222 --user-data-dir=C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost".
 
-https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
+After opening Chrome, paste the following three lines of code from the script into the command prompt and hit enter. This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
-in my case chrome location
+"You must login with your 10+ accounts, and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
 
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
-
-in my case
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
-
-then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
-
-l.py
-
-you must login with your 10+ accounts and with each accounts you must have 10+ brand account must and should to hit auto likes....
-
-in 17th line change with your required movie video url...
-
-thats all done the url will open in the localhost and it auto likes and switch to another acc automatically and hitting the likes..
-
-in cmd enter
-
-pip install Random
-
-and hit enter button
-
+Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run
 
 👉open cmd and enter pip uninstall selenium
 
