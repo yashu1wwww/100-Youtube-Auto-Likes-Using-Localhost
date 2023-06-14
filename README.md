@@ -5,11 +5,21 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 #Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. The script is used to automatically like a particular YouTube video with multiple accounts
 
-First, open Chrome and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location is "C:\Users\Hp\AppData\Local\Google\Chrome\Application".
+First, open Chrome file location and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location(use start in: path)  is
 
-Next, in the command prompt, navigate to the Chrome directory using the command "cd C:\Users\Hp\AppData\Local\Google\Chrome\Application". Then, 
-use the command "chrome.exe --remote-debugging-port=9222 --user-data-dir=<enter your localhost path here>" to open Chrome with remote debugging enabled. In my case, the command was
-  "chrome.exe --remote-debugging-port=9222 --user-data-dir=C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost".
+C:\Users\Hp\AppData\Local\Google\Chrome\Application
+
+Next, in the command prompt, navigate to the Chrome directory using the command cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+
+Then, 
+
+use the command
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir=<enter your localhost path here>" 
+  
+to open Chrome with remote debugging enabled. In my case, the command was
+  
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
 After opening Chrome, paste the following three lines of code from the script into the command prompt and hit enter. This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
