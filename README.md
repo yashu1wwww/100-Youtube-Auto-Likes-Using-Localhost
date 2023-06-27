@@ -26,6 +26,7 @@ After opening Chrome, paste the following three lines of code from the script in
 "You must login with your 10+ accounts, and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
+
 👉Note:-
 
 👉If you have the latest version of Selenium, the code may not run
