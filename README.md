@@ -31,6 +31,8 @@ After opening Chrome, paste the following two lines of code from the script into
 
 "You must login with your 10+ accounts, and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
 
+That's it! The URL will open in the previously opened localhost Chrome and 100+ auto likes will be done automatically.
+
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
 👉Note:-
