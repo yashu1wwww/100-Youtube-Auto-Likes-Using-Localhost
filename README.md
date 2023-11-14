@@ -55,7 +55,7 @@ Finally, in the command prompt, enter "pip install Random" and hit enter to inst
 
 --------------------------------------------------------------------------------------------------------------------
 
-## "If you want 1000 auto likes, follow these steps in Chrome settings:
+## 👉 "If you want 1000 auto likes, follow these steps in Chrome settings:
 
 Click on the account logo near the top
 Go to 'Other profiles.'
