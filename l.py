@@ -29,7 +29,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -48,7 +48,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -68,7 +68,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -88,7 +88,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -108,7 +108,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -128,7 +128,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -148,7 +148,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -168,7 +168,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -190,7 +190,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -210,7 +210,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -230,7 +230,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -250,7 +250,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -270,7 +270,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -290,7 +290,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -310,7 +310,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -330,7 +330,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -350,7 +350,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -372,7 +372,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -392,7 +392,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -412,7 +412,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -432,7 +432,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -452,7 +452,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -472,7 +472,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -492,7 +492,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -512,7 +512,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -532,7 +532,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -552,7 +552,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -574,7 +574,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -594,7 +594,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -614,7 +614,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -634,7 +634,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -654,7 +654,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -674,7 +674,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -694,7 +694,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -714,7 +714,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -734,7 +734,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -756,7 +756,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -776,7 +776,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -796,7 +796,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -816,7 +816,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -836,7 +836,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -856,7 +856,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -876,7 +876,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -896,7 +896,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -916,7 +916,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -938,7 +938,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -958,7 +958,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -978,7 +978,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -998,7 +998,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1018,7 +1018,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1038,7 +1038,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1058,7 +1058,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1078,7 +1078,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1098,7 +1098,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1120,7 +1120,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1140,7 +1140,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1160,7 +1160,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1180,7 +1180,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1200,7 +1200,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1220,7 +1220,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1240,7 +1240,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1260,7 +1260,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1280,7 +1280,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1302,7 +1302,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1322,7 +1322,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1342,7 +1342,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1362,7 +1362,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1382,7 +1382,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1402,7 +1402,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1422,7 +1422,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1442,7 +1442,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1462,7 +1462,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1484,7 +1484,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1504,7 +1504,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1524,7 +1524,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1544,7 +1544,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1564,7 +1564,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1584,7 +1584,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1604,7 +1604,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1624,7 +1624,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1644,7 +1644,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1666,7 +1666,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1686,7 +1686,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1706,7 +1706,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1726,7 +1726,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1746,7 +1746,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1766,7 +1766,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1786,7 +1786,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1806,7 +1806,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1826,7 +1826,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1846,7 +1846,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1866,7 +1866,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1886,7 +1886,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1906,7 +1906,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1926,7 +1926,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1944,7 +1944,7 @@ time.sleep(3)
 driver.find_element_by_id("avatar-btn").click()
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1964,7 +1964,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1984,7 +1984,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click()
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
 
 time.sleep(2)
 
@@ -1992,6 +1992,7 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
 time.sleep(10)
+
 
 
 
