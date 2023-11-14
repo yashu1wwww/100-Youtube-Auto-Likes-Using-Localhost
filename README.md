@@ -2,7 +2,7 @@
 
 100+ Youtube Non Stop Auto Likes Using selenium with python on localhost
 
-## Couldn't find it on Google, so I created it
+## Couldn't find it on Google, so I created it.
 
 𝙉𝙤𝙩𝙚:𝘿𝙞𝙙𝙣'𝙩 𝙘𝙤𝙥𝙮-𝙥𝙖𝙨𝙩𝙚 𝙘𝙤𝙙𝙚 𝙖𝙜𝙖𝙞𝙣 𝙖𝙣𝙙 𝙖𝙜𝙖𝙞𝙣 𝙎𝙤𝙢𝙚 𝘾𝙝𝙖𝙣𝙜𝙚𝙨 𝘼𝙧𝙚 𝙏𝙝𝙚𝙧𝙚.
 
@@ -49,7 +49,7 @@ That's it! The URL will open in the previously opened localhost Chrome and 100+ 
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
-## Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+## 👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
 
 ## then copy the 'Like' button's XPath, CSS, or JavaScript path. Replace it in the code and press 'Ctrl+H' to find and replace the same element in the code.
 
