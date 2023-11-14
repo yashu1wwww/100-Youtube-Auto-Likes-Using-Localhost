@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 ## Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. 
 
-# The script is used to automatically like a particular YouTube video with multiple accounts
+## The script is used to automatically like a particular YouTube video with multiple accounts
 
 First, open Chrome file location and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location(use start in: path)  is
 
@@ -49,9 +49,9 @@ That's it! The URL will open in the previously opened localhost Chrome and 100+ 
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
-# Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+## Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
 
-# then copy the 'Like' button's XPath, CSS, or JavaScript path. Replace it in the code and press 'Ctrl+H' to find and replace the same element in the code.
+## then copy the 'Like' button's XPath, CSS, or JavaScript path. Replace it in the code and press 'Ctrl+H' to find and replace the same element in the code.
 
 --------------------------------------------------------------------------------------------------------------------
 
