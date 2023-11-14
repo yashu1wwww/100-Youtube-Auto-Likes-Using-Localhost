@@ -8,7 +8,6 @@
 
 ## "If you know proxy rotation, then please fork it".
 
---------------------------------------------------------------------------------------------------------------------------------
 ## in lc.py script
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
