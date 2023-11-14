@@ -46,7 +46,9 @@ driver.find_element_by_xpath('//*[@id="segmented-like-button"]/ytd-toggle-button
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
-## Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. The script is used to automatically like a particular YouTube video with multiple accounts
+## Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. 
+
+# The script is used to automatically like a particular YouTube video with multiple accounts
 
 First, open Chrome file location and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location(use start in: path)  is
 
@@ -68,7 +70,12 @@ then new terminal in that folder and enter l.py (letter l not one)
 
 After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
-"You must login with your 10+ accounts, and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
+# "You must login with your 10+ accounts,
+
+# after login with 10 accs add these extension
+https://shorturl.at/mtAER
+
+and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
 
 That's it! The URL will open in the previously opened localhost Chrome and 100+ auto likes will be done automatically.
 
