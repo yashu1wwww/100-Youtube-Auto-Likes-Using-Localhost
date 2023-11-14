@@ -14,7 +14,7 @@ driver = webdriver.Chrome(options=option)
 
 time.sleep(2)
 
-driver.get("https://youtu.be/8FAUEv_E_xQ") #replace with your required url
+driver.get("https://www.youtube.com/watch?v=jNQXAC9IVRw") #replace with your required url
 
 time.sleep(3)
 
