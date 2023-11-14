@@ -8,41 +8,8 @@
 
 ## "If you know proxy rotation, then please fork it".
 
-## "If you want 1000 auto likes, follow these steps in Chrome settings:
-
-Click on the account logo near the top
-Go to 'Other profiles.'
-Click the '+ Add' button.
-Log in with 10 different Gmail accounts, with each Gmail account containing 10 brand accounts.
-Repeat this process for a total of 8 profiles, with each profile containing 10 emails (each email having 10 brand accounts).
-
-## Once you've set up the profiles, open each one and double-click on the Python (L.py) file. That's it!"
-
 --------------------------------------------------------------------------------------------------------------------------------
-
-## For Creating Gmail Without Phone And Create Within 1 Minutes Use These 👇
-
-## Mobile Settings > Password & Accounts > Google > Choose to create an account at the bottom. When prompted, select "Myself," fill in the remaining details, and note that they won't ask for a phone number.
-
-## You can try these steps to create a Gmail account without providing a phone number.
-
 ## in lc.py script
-
-## Replace 
-## these  
-
-#like 
-
-driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click() 
-
-
-## with these
-
-#like
-
-driver.find_element_by_xpath('//*[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
-
-## like element updated...
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
@@ -68,7 +35,9 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 then new terminal in that folder and enter l.py (letter l not one)
 
-After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
+After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. 
+
+This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
 # "You must login with your 10+ accounts,
 
@@ -80,6 +49,32 @@ and each account must have 10+ brand accounts to hit auto-likes. In the 17th lin
 That's it! The URL will open in the previously opened localhost Chrome and 100+ auto likes will be done automatically.
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
+
+# Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+
+# then copy the 'Like' button's XPath, CSS, or JavaScript path. Replace it in the code and press 'Ctrl+H' to find and replace the same element in the code.
+
+--------------------------------------------------------------------------------------------------------------------
+
+## "If you want 1000 auto likes, follow these steps in Chrome settings:
+
+Click on the account logo near the top
+Go to 'Other profiles.'
+Click the '+ Add' button.
+Log in with 10 different Gmail accounts, with each Gmail account containing 10 brand accounts.
+Repeat this process for a total of 8 profiles, with each profile containing 10 emails (each email having 10 brand accounts).
+
+## Once you've set up the profiles, open each one and double-click on the Python (L.py) file. That's it!"
+
+-----------------------------------------------------------------------------------------------------------------------
+
+## For Creating Gmail Without Phone And Create Within 1 Minutes Use These 👇
+
+## Mobile Settings > Password & Accounts > Google > Choose to create an account at the bottom. When prompted, select "Myself," fill in the remaining details, and note that they won't ask for a phone number.
+
+## You can try these steps to create a Gmail account without providing a phone number.
+
+-------------------------------------------------------------------------------------------------------------------------
 
 👉Note:-
 
