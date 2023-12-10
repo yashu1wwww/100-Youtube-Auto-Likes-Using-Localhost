@@ -19,7 +19,7 @@ driver.get("https://www.youtube.com/watch?v=jNQXAC9IVRw") #replace with your req
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 
 time.sleep(3)
 
@@ -38,8 +38,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -58,8 +57,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -78,8 +76,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(2)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -98,8 +95,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -118,8 +114,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -138,8 +133,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -158,8 +152,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -178,8 +171,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(2)
 
 #2 account click 
@@ -200,8 +192,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -220,8 +211,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -240,8 +230,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -260,8 +249,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -280,8 +268,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -300,8 +287,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -320,8 +306,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -340,8 +325,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -362,8 +346,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -382,8 +365,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -402,8 +384,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -422,8 +403,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -442,8 +422,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -462,8 +441,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -482,8 +460,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -502,8 +479,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -522,8 +498,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -542,8 +517,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -564,8 +538,7 @@ time.sleep(3)
 #4th account click 
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -584,8 +557,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -604,8 +576,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -624,8 +595,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -644,8 +614,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -664,8 +633,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -684,8 +652,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -704,8 +671,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -724,8 +690,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -746,8 +711,7 @@ time.sleep(3)
 #5th account click 
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -766,8 +730,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -786,8 +749,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -806,8 +768,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -826,8 +787,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -846,8 +806,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -866,8 +825,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -886,8 +844,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -906,8 +863,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -928,8 +884,7 @@ time.sleep(3)
 #6th account click
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -948,8 +903,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -968,8 +922,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -988,8 +941,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1008,8 +960,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1028,8 +979,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1048,8 +998,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1068,8 +1017,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1088,8 +1036,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1110,8 +1057,7 @@ time.sleep(3)
 #7th account click
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1130,8 +1076,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1150,8 +1095,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1170,8 +1114,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1190,8 +1133,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1210,8 +1152,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1230,8 +1171,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1250,8 +1190,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1270,8 +1209,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1292,8 +1230,7 @@ time.sleep(3)
 #8th account click
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1312,8 +1249,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1332,8 +1268,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1352,8 +1287,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1372,8 +1306,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1392,8 +1325,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1412,8 +1344,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1432,8 +1363,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1452,8 +1382,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1474,8 +1403,7 @@ time.sleep(3)
 #9th account click
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1494,8 +1422,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1514,8 +1441,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1534,8 +1460,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1554,8 +1479,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1574,8 +1498,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1594,8 +1517,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1614,8 +1536,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1634,8 +1555,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1656,8 +1576,7 @@ time.sleep(3)
 #10th account click
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1676,8 +1595,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1696,8 +1614,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1716,8 +1633,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1736,8 +1652,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1756,8 +1671,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1776,8 +1690,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1796,8 +1709,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1816,8 +1728,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1836,8 +1747,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1856,8 +1766,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1876,8 +1785,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1896,8 +1804,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1916,8 +1823,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1936,8 +1842,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1954,8 +1859,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1974,8 +1878,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
+driver.find_element_by_xpath('//*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(3)
 
 #click on id
@@ -1992,7 +1895,6 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
 time.sleep(10)
-
 
 
 
