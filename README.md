@@ -1,6 +1,10 @@
 # 100-Youtube-Auto-Likes-Using-Localhost
 
-100+ Youtube Non Stop Auto Likes Using selenium with python on localhost
+100+ Youtube Non Stop Auto Likes For Videos Using selenium with python on localhost
+
+# For Shorts:-
+
+https://github.com/yashu1wwww/100-Youtube-Auto-Likes-For-Youtube-Shorts-Using-Localhost
 
 ## Couldn't find it on Google, so I created it.
 
