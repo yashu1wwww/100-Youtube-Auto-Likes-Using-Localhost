@@ -8,33 +8,31 @@ https://github.com/yashu1wwww/100-Youtube-Auto-Likes-For-Youtube-Shorts-Using-Lo
 
 ## "If you know proxy rotation, then please fork it".
 
-## in l.py script
-
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 ## Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. 
 
 The script is used to automatically like a particular YouTube video with multiple accounts
 
-First, open Chrome file location and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location(use start in: path)  is
+First, open Chrome file location and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location(use start in: path) is
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-Next, in the command prompt, navigate to the Chrome directory using the command cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+click window button and search cmd and enter
 
-Then, 
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application (1st line in cmd)
 
-use the command
+in line enter
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="enter your localhost path here" 
-  
-to open Chrome with remote debugging enabled. In my case, the command was
-  
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost" 
+chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
 
-then new terminal in that folder and enter l.py (letter l not one)
+Next, enter this command into the terminal, replacing "enter your localhost path here" with your localhost path:
 
-After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. 
+For example, in my case it is:
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost" (2nd line in cmd make sure you replace the localhost path)
+
+then again open new terminal in that folder enter l.py or double click on l.py
 
 This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
