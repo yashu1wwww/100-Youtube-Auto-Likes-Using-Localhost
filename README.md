@@ -57,7 +57,7 @@ That's it! The URL will open in the previously opened localhost Chrome and 100+ 
 
 --------------------------------------------------------------------------------------------------------------------
 
-👉Note:-
+# 👉Note:-
 
 👉If you have the latest version of Selenium, the code may not run
 
