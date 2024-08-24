@@ -45,7 +45,7 @@ This will open the YouTube video URL in Chrome, automatically like it with multi
 # after login with 10 accs add these extension
 https://shorturl.at/mtAER
 
-and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
+and each account must have 10+ brand accounts to hit auto-likes. In the 15th line of the script, replace the URL with the YouTube video URL you want to like.
 
 That's it! The URL will open in the previously opened localhost Chrome and 100+ auto likes will be done automatically.
 
