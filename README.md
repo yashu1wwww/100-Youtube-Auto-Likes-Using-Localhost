@@ -51,7 +51,7 @@ That's it! The URL will open in the previously opened localhost Chrome and 100+ 
 
 --------------------------------------------------------------------------------------------------------------------
 
-## 👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+# 👉 Note:Every time YouTube updates its code, it may vary. So, open the YouTube video, press *Ctrl + Shift + C* to open Developer Tools, inspect the elements, find the updated paths, and modify accordingly. 
 
 ---------------------------------------------------------------------------------------------------------------
 
