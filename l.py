@@ -24,7 +24,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -40,7 +40,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -56,7 +56,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -72,7 +72,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -88,7 +88,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -104,7 +104,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -120,7 +120,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -136,7 +136,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -152,7 +152,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -168,7 +168,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #2 account click 
@@ -185,7 +185,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -201,7 +201,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -217,7 +217,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -233,7 +233,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -249,7 +249,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -265,7 +265,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -281,7 +281,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -297,7 +297,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -313,7 +313,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -329,7 +329,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #3 account click 
@@ -346,7 +346,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -362,7 +362,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -378,7 +378,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -394,7 +394,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -410,7 +410,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -426,7 +426,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -442,7 +442,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -458,7 +458,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -474,7 +474,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -490,7 +490,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #4th account click 
@@ -507,7 +507,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -523,7 +523,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -539,7 +539,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -555,7 +555,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -571,7 +571,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -587,7 +587,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -603,7 +603,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -619,7 +619,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next 
@@ -635,7 +635,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -651,7 +651,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #5th account click 
@@ -669,7 +669,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -685,7 +685,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -701,7 +701,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -717,7 +717,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -733,7 +733,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -749,7 +749,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -765,7 +765,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -781,7 +781,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -797,7 +797,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 
@@ -814,7 +814,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #6th account click
@@ -831,7 +831,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -847,7 +847,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -863,7 +863,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -879,7 +879,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -895,7 +895,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -911,7 +911,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -927,7 +927,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -943,7 +943,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -959,7 +959,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 
@@ -976,7 +976,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #7th account click
@@ -993,7 +993,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1009,7 +1009,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1025,7 +1025,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1041,7 +1041,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1057,7 +1057,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1073,7 +1073,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1089,7 +1089,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1105,7 +1105,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1121,7 +1121,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1137,7 +1137,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #8th account click
@@ -1154,7 +1154,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1170,7 +1170,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1186,7 +1186,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1202,7 +1202,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1218,7 +1218,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1234,7 +1234,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1250,7 +1250,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1266,7 +1266,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1282,7 +1282,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1298,7 +1298,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 
 time.sleep(2)
 
@@ -1316,7 +1316,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1332,7 +1332,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1348,7 +1348,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1364,7 +1364,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1380,7 +1380,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1396,7 +1396,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1412,7 +1412,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1428,7 +1428,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1444,7 +1444,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1460,7 +1460,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 
 time.sleep(2)
 #10th account click
@@ -1477,7 +1477,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1493,7 +1493,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1509,7 +1509,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1525,7 +1525,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1541,7 +1541,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1557,7 +1557,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1573,7 +1573,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1589,7 +1589,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1606,7 +1606,7 @@ driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 
 #switch
-driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()')
+driver.find_element_by_xpath("//yt-formatted-string[text()='Switch account']").click()
 time.sleep(2)
 
 #click on next
@@ -1617,3 +1617,6 @@ time.sleep(3)
 driver.find_element_by_xpath("//button[@title='I like this']").click()
 time.sleep(3)
 #end > 10th acc - each acc contain 10 brand accs
+
+
+
