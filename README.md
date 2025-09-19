@@ -32,8 +32,7 @@ Next, enter this command into the terminal, replacing "enter your localhost path
 
 For example, in my case it is:
 
-##
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost" (2nd line in cmd make sure you replace the localhost path)
+## chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost" (2nd line in cmd make sure you replace the localhost path)
 
 # then again open new terminal in that folder enter
 
