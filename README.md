@@ -10,7 +10,7 @@ https://github.com/yashu1wwww/100-Youtube-Auto-Likes-For-Youtube-Shorts-Using-Lo
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
-## Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. 
+## Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and run video.py or shorts.py
 
 The script is used to automatically like a particular YouTube video with multiple accounts
 
@@ -38,7 +38,7 @@ For example, in my case it is:
 
 pip install selenium==4.2.0
 
-after enter l.py or double click on l.py
+after run the code 
 
 This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
@@ -47,7 +47,7 @@ This will open the YouTube video URL in Chrome, automatically like it with multi
 # after login with 10 accs add these extension
 https://shorturl.at/mtAER
 
-and each account must have 10+ brand accounts to hit auto-likes. In the 15th line of the script, replace the URL with the YouTube video URL you want to like.
+# Each account must have 10 or more brand accounts to perform auto-likes. Replace the URL in the file with a YouTube video URL and run video.py for regular videos or shorts.py for YouTube Shorts.
 
 That's it! The URL will open in the previously opened localhost Chrome and 100+ auto likes will be done automatically.
 
