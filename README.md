@@ -2,10 +2,6 @@
 
 100+ Youtube Non Stop Auto Likes For Videos and shorts Using selenium with python on localhost
 
-# For Shorts:-
-
-https://github.com/yashu1wwww/100-Youtube-Auto-Likes-For-Youtube-Shorts-Using-Localhost
-
 ## "If you know proxy rotation, then please fork it".
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
