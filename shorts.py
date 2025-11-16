@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import webdriver #10 gmails each gmail - 10 brand accounts
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -1617,3 +1617,4 @@ time.sleep(3)
 driver.find_element_by_class_name("yt-spec-button-shape-with-label").click()
 time.sleep(3)
 #end > 10th acc - each acc contain 10 brand accs
+
