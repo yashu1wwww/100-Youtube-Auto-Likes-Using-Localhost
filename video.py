@@ -16,7 +16,7 @@ driver.get("https://www.youtube.com/watch?v=jNQXAC9IVRw") #replace with your req
 time.sleep(4)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -32,7 +32,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -48,7 +48,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -64,7 +64,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -80,7 +80,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -96,7 +96,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -112,7 +112,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -128,7 +128,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -144,7 +144,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(2)
 
 #click on id
@@ -160,7 +160,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(2)
 
 #click on id
@@ -177,7 +177,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(2)
 
 #click on id
@@ -193,7 +193,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -209,7 +209,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -225,7 +225,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -241,7 +241,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -257,7 +257,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -273,7 +273,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -289,7 +289,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -305,7 +305,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -321,7 +321,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -338,7 +338,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -354,7 +354,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -370,7 +370,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -386,7 +386,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -402,7 +402,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -418,7 +418,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -434,7 +434,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -450,7 +450,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -466,7 +466,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -482,7 +482,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -499,7 +499,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -515,7 +515,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -531,7 +531,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -547,7 +547,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -563,7 +563,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -579,7 +579,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -595,7 +595,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -611,7 +611,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -627,7 +627,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -643,7 +643,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -661,7 +661,7 @@ time.sleep(3)
 
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -677,7 +677,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -693,7 +693,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -709,7 +709,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -725,7 +725,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -741,7 +741,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -757,7 +757,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -773,7 +773,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -789,7 +789,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -806,7 +806,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -823,7 +823,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -839,7 +839,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -855,7 +855,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -871,7 +871,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -887,7 +887,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -903,7 +903,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -919,7 +919,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -935,7 +935,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -951,7 +951,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -968,7 +968,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -985,7 +985,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1001,7 +1001,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1017,7 +1017,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1033,7 +1033,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1049,7 +1049,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1065,7 +1065,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1081,7 +1081,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1097,7 +1097,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1113,7 +1113,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1129,7 +1129,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1146,7 +1146,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1162,7 +1162,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1178,7 +1178,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1194,7 +1194,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1210,7 +1210,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1226,7 +1226,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1242,7 +1242,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1258,7 +1258,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1274,7 +1274,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1290,7 +1290,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1308,7 +1308,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1324,7 +1324,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1340,7 +1340,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1356,7 +1356,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1372,7 +1372,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1388,7 +1388,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1404,7 +1404,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1420,7 +1420,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1436,7 +1436,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1452,7 +1452,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1469,7 +1469,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1485,7 +1485,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1501,7 +1501,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1517,7 +1517,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1533,7 +1533,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1549,7 +1549,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1565,7 +1565,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1581,7 +1581,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1598,7 +1598,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 
 #click on id
@@ -1614,10 +1614,9 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 time.sleep(3)
 
 #like
-driver.find_element_by_xpath("//like-button-view-model//button").click()
+driver.find_element(By.XPATH, "//*[@id='top-level-buttons-computed']//button[1]").click()
 time.sleep(3)
 #end > 10th acc - each acc contain 10 brand accs
-
 
 
 
